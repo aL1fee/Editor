@@ -1,11 +1,7 @@
 Editor
 ==============
 
-qL1fee
-
-Spring 2016
-
-Java
+Spring 2016, Java
 
 ------------
 
